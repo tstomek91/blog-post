@@ -1,0 +1,28 @@
+.col-12 {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  background: white;
+  padding-top: 100px;
+}
+.p-card--highlighted {
+  border-top: 3px solid #772953;
+  max-width: 400px;
+  margin-right: 20px;
+}
+.p-card__content {
+  border-bottom: 1px dotted grey;
+  font-style: italic;
+  margin-top: 47px;
+}
+img {
+  width: 368px;
+  height: 245px;
+}
+.category {
+  border-bottom: 1px dotted grey;
+  text-transform: uppercase;
+}
+.author {
+  bottom: 0;
+}
